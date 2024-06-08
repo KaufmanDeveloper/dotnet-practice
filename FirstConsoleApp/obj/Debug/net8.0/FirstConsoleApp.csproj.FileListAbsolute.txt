@@ -1,0 +1,15 @@
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.deps.json
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.runtimeconfig.json
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.dll
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/bin/Debug/net8.0/FirstConsoleApp.pdb
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.AssemblyInfo.cs
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.sourcelink.json
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.dll
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/refint/FirstConsoleApp.dll
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.pdb
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/FirstConsoleApp.genruntimeconfig.cache
+/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/Debug/net8.0/ref/FirstConsoleApp.dll
