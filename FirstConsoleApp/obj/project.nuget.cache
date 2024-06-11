@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cg7e+zIjWjU=",
+  "dgSpecHash": "Ia7QTDkZ9zI=",
   "success": true,
   "projectFilePath": "/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/FirstConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/michaelkaufman/.nuget/packages/passwordgenerator/2.1.0/passwordgenerator.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,36 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "PasswordGenerator/2.1.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/PasswordGenerator.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/PasswordGenerator.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "PasswordGenerator/2.1.0": {
-      "sha512": "G70cCeAOYCk/uTuFw5PBGpYY9kmBZyzld7tphachvyU514PowMRDYyKwTefxIHNGWrhXY2d1DV5B1tDEnTtY3A==",
-      "type": "package",
-      "path": "passwordgenerator/2.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/PasswordGenerator.dll",
-        "passwordgenerator.2.1.0.nupkg.sha512",
-        "passwordgenerator.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "PasswordGenerator >= 2.1.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "/Users/michaelkaufman/.nuget/packages/": {}
@@ -38,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/FirstConsoleApp.csproj",
-      "projectName": "FirstConsoleApp",
-      "projectPath": "/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/FirstConsoleApp.csproj",
+      "projectUniqueName": "/Users/michaelkaufman/git/dotnet-practice/MyNewApp/MyNewApp.csproj",
+      "projectName": "MyNewApp",
+      "projectPath": "/Users/michaelkaufman/git/dotnet-practice/MyNewApp/MyNewApp.csproj",
       "packagesPath": "/Users/michaelkaufman/.nuget/packages/",
-      "outputPath": "/Users/michaelkaufman/git/dotnet-practice/FirstConsoleApp/obj/",
+      "outputPath": "/Users/michaelkaufman/git/dotnet-practice/MyNewApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michaelkaufman/.nuget/NuGet/NuGet.Config"
@@ -73,12 +48,6 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
-        "dependencies": {
-          "PasswordGenerator": {
-            "target": "Package",
-            "version": "[2.1.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -91,6 +60,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
