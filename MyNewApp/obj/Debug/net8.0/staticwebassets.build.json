@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TlEZYtObpVlUxEE0b3Oj5a3UpmaKOgFJJqjyQQSVHsg=",
+  "Source": "MyNewApp",
+  "BasePath": "_content/MyNewApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

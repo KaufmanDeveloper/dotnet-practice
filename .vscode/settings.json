@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "FirstConsoleApp.sln"
+    "dotnet.defaultSolution": "",
+    "omnisharp.sdkPath": "/usr/local/share/dotnet"
 }
